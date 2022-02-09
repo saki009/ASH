@@ -8,8 +8,9 @@
   }
   
   .logo1{
-    width: 8%;
-    height: 8%;
+    width: 80px;
+    padding-left: 20px;
+    padding-top:10px;
   }
 
   h1 {
@@ -217,4 +218,5 @@
   footer {
     text-align: center;
     background-color: #c76666;
+    font-size:15px;
   }
